@@ -16,4 +16,4 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
  
  ## Modelo EER Diagram Oficina Mecanica - DIO
  
- ![Modelo EER Diagram Oficina Mecanica](https://github.com/WANGOMES/Projeto-Conceitual-de-Banco-de-Dados-dio/blob/main/EER%20Diagram%20Ecommerce_bd.png "Modelo EER Diagram Ecommerce")
+ ![Modelo EER Diagram Oficina Mecanica](https://github.com/WANGOMES/Projeto-Conceitual-de-Banco-de-Dados-dio-Oficina-Mecanica/blob/main/EER%20Diagram%20Oficina_Mecanica_bd.png "Modelo EER Diagram Ecommerce")
